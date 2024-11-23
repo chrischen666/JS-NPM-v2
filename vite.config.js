@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-    base: '/JS-NPM/',
+    base: '/JS-NPM-2/',
     build: {
         rollupOptions: {
             input: {
